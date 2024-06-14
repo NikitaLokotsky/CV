@@ -2,10 +2,10 @@
 
 ### QA Engineer
 
-**Дата рождения:** 16 июля
-**Телефон:** +7 999 290 2654  
-**Email:** [dysphoriame@gmail.com](mailto:dysphoriame@gmail.com)
-**TG:** [Nikita](https://t.me/ko6a4ken)
+- **Дата рождения:** 16 июля
+- **Телефон:** +7 999 290 2654  
+- **Email:** [dysphoriame@gmail.com](mailto:dysphoriame@gmail.com)
+- **TG:** [Nikita](https://t.me/ko6a4ken)
 ---
 ## Образование
 - Среднее неполное
