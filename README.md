@@ -15,7 +15,7 @@
   
 ## Список проектов 
 - Тестирование приложения на Android и iOS - [Закон Притяжения](https://zakonpr.tilda.ws/)
-- Тестирование адаптивности сайта - [SMMNakrutka](https://smmnakrutka.ru/)
+- Тестирование кроссплатформенность сайта - [SMMNakrutka](https://smmnakrutka.ru/)
 - Тестирование нового лендинга на Android - [pro-test.studio](https://course.pro-test.studio/newversion)
 - Тестирование работы бота на Android/desktop - [FruitScannerBot](https://t.me/FruitScannerBot)
 - Регрессионное и функциональное тестирование на Android - [pro-test.studio](https://dev.pro-test.studio/newpage/services)
